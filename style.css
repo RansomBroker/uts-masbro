@@ -1,0 +1,17 @@
+.text-blue {
+    color: #30a4fc !important;
+}
+
+.btn-blue {
+    background-color: #30a4fc;
+}
+
+.btn-outline-blue {
+    color: #30a4fc !important;
+    border-color: #30a4fc !important;
+
+}
+
+.no-style {
+    text-decoration: none;
+}
